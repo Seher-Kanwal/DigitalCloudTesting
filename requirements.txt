@@ -1,4 +1,6 @@
 Flask
 gunicorn
 wfastcgi
-pandas
+gensim
+sklearn
+numpy
