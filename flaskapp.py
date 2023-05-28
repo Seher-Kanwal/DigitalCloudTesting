@@ -42,7 +42,7 @@ def Recommendations(desti_name):
     return names
 
 
-@app.route('/Scoring<string/<string:comments>')
+@app.route('/Scoring/<string:comments>')
 def Scoring(comments):
     comments_list = comments.split('///')
     scoring_comments = []
