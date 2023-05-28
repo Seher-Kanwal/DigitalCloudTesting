@@ -1,6 +1,4 @@
 Flask
 gunicorn
 wfastcgi
-gensim
-scikit-learn
-numpy
+
